@@ -5,7 +5,7 @@ order: 4
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjeev+Jyothikrishnan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjeev+Jyothikrishnan!;" alt="Hi" />
 </h1>
 
 <h3 align="center">A passionate software developer from Kerala,India</h3>
@@ -28,7 +28,7 @@ order: 4
  <h2 align="center">⚒️ Languages-Frameworks-Tools-OS ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,bootstrap,github,jenkins,git,pycharm,visualstudio,vscode,rabbitmq,elasticsearch,kibana" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,angular,py,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,bootstrap,github,jenkins,git,pycharm,visualstudio,vscode,rabbitmq,elasticsearch,kibana" alt="tools" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,angular,py,mysql" alt="programming" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux" alt="OS"/>
 </div>
